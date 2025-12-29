@@ -3,13 +3,7 @@
     "codespaces": {
       "repositories": {
         "Crypto-Spartan/dotfiles": {
-          "permissions": {
-            "contents": "write",
-            "discussions": "write",
-            "issues": "write",
-            "pull_requests": "write",
-            "statuses": "write"
-          }
+          "permissions": "write-all"
         }
       }
     }
